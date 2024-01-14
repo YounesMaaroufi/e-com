@@ -1,0 +1,3 @@
+this folder for providers that will save you time writing the same code over and over but instead you're gonna write the code once and 
+call this UI inside your layout and no worry 
+(only call this function the server is moounted)
